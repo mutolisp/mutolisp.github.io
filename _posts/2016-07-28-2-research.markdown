@@ -1,0 +1,8 @@
+---
+layout: default
+img: Fagus_hayatae_records.png
+category: Research
+title: 物種分布模型
+description: |
+---
+

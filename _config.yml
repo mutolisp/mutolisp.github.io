@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://mutolisp.tw
+title: 植群生態與空間資訊研究室
+email: mutolisp@mail.ncyu.edu.tw
+author: Cheng-Tao Lin
+description: > 
+  嘉義大學生物資源學系 植群生態與空間資訊研究室 林政道
+copyright: '2016 @ Lab of vegetation ecology and spatial information'
+credits: 'Credits: original jekyll theme was designed by <a href="https://github.com/swcool">Shane Weng</a>. Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: facebook
+    url: https://www.facebook.com/groups/934172533286771/
+  - title: github
+    url: https://github.com/mutolisp
+  - title: wordpress
+    url: http://mutolisp.wordpress.com
